@@ -1,0 +1,26 @@
+\documentclass[a4paper,10pt]{report}
+\usepackage[utf8]{inputenc}
+
+% Title Page
+\title{Non-Invasive Detection of Anaemia (NIDA)}
+\author{Vedanshu}
+
+
+\begin{document}
+\maketitle
+
+\begin{abstract}\paragraph*{Background}
+\label{sec:back}
+
+Anaemia is a major health burden worldwide. Although the finding of conjunctival pallor on
+clinical examination is associated with anaemia, inter-observer variability is high, and defini-
+tive diagnosis of anaemia requires a blood sample. We aimed to detect anaemia by quanti-
+fying conjunctival pallor using digital photographs taken with a consumer camera and a
+popular smartphone. Our goal was to develop a non-invasive screening test for anaemia . \cite{plos}
+\end{abstract}
+\begin{thebibliography}{10}
+\bibitem{plos}  Non-Invasive Detection of Anaemia Using
+Digital Photographs of the Conjunctiva
+\end{thebibliography} 
+\end{document}
+

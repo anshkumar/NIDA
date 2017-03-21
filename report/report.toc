@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {I}Introduction}{1}
+\contentsline {section}{\numberline {II}Problem Definition}{1}
+\contentsline {section}{\numberline {III}Proposed Solutions}{1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-A}}White calibration card}{1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-B}}Medical history and color-scale combined}{2}
+\contentsline {section}{\numberline {IV}Research Methodology}{2}
+\contentsline {section}{\numberline {V}Analysis and Interpretation}{2}
+\contentsline {section}{\numberline {VI}Usage}{3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-A}}Data input}{3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-B}}Standardization technique}{3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-C}}Image analysis}{3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-D}}Getting the EI}{3}
+\contentsline {section}{\numberline {VII}Conclusions and Recommendations}{3}
+\contentsline {section}{References}{4}

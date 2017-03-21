@@ -1,0 +1,5 @@
+INSTALL
+1) Install OpenCV development files, in Ubuntu 16.04 with the following command. For other platforms download from http://opencv.org/downloads.html .
+	$$ apt-get install libopencv-dev
+2) Install Qt-5 development files, for Ubuntu 16.04 type the following command and for other platforms check http://doc.qt.io/qt-4.8/installation.html for installation details.
+	$$ apt-get install qtbase5-dev-tools qtcreator
