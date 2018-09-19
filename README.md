@@ -32,5 +32,5 @@ technology which could use these already available facilities to provide health 
 
 The solution provided in this paper aimed to detect anemia by quantifying conjunctival pallor using digital photographs taken
 with a consumer camera. Before it could be used, refinement of the image standardization technique to reduce the impact of 
-device and lighting characteristics is required [2]. Following techniques could be used for the refinement of the image 
+device and lighting characteristics is required. Following techniques could be used for the refinement of the image 
 standardization.
